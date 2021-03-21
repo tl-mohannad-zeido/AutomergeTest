@@ -1,11 +1,104 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "LibToBump/1.0.0": {
+        "type": "package"
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibToBump/1.0.0": {
+      "sha512": "O1Fza9yVShvJZoj1kjmdokjBPFqYBK0BO4qOf7ktdrbGQuj+VSrbyijy/aUdJARmhqym9J2quzQR3uRUHidYNg==",
+      "type": "package",
+      "path": "libtobump/1.0.0",
+      "files": [
+        ".git/COMMIT_EDITMSG",
+        ".git/FETCH_HEAD",
+        ".git/HEAD",
+        ".git/ORIG_HEAD",
+        ".git/config",
+        ".git/description",
+        ".git/hooks/applypatch-msg.sample",
+        ".git/hooks/commit-msg.sample",
+        ".git/hooks/fsmonitor-watchman.sample",
+        ".git/hooks/post-update.sample",
+        ".git/hooks/pre-applypatch.sample",
+        ".git/hooks/pre-commit.sample",
+        ".git/hooks/pre-merge-commit.sample",
+        ".git/hooks/pre-push.sample",
+        ".git/hooks/pre-rebase.sample",
+        ".git/hooks/pre-receive.sample",
+        ".git/hooks/prepare-commit-msg.sample",
+        ".git/hooks/update.sample",
+        ".git/index",
+        ".git/info/exclude",
+        ".git/logs/HEAD",
+        ".git/logs/refs/heads/main",
+        ".git/logs/refs/remotes/origin/HEAD",
+        ".git/logs/refs/remotes/origin/dependabot/add-v2-config-file",
+        ".git/logs/refs/remotes/origin/main",
+        ".git/objects/12/9525665fdc916102b00cfa8753d0d2746e0e69",
+        ".git/objects/1e/16918d3860f67053a0c11ddc2ef33796a62ac8",
+        ".git/objects/20/82704286ba4b078fd5f25bdb8e3029bf4ea824",
+        ".git/objects/39/4aac1f45e24a8176316737ec3513813f66f9fe",
+        ".git/objects/4a/a14ad432a45a3ff6af1d68bd4d4e3610c1b75b",
+        ".git/objects/51/c2d6e6d88c283895b81ce68fbf8c525828561f",
+        ".git/objects/53/cfaa19b16f3769b2bfc33db3b5c0053c16fdba",
+        ".git/objects/60/6f37daa7d936a634e66d8ecb390b4fdd29aa55",
+        ".git/objects/8a/2dfa78cd317984f09bb25ce9a1c2ec71d1fc7d",
+        ".git/objects/98/467b2aacb026fa2965cd0e9019ce293fc13ce6",
+        ".git/objects/ae/c207e4342a8298e36ea47a0c9018b19f407bc5",
+        ".git/objects/b4/d57d66f08b2bd466fb5e81c96802f1afbaec75",
+        ".git/objects/ba/a5ace3939a71c8a5151e919edcd271beee3967",
+        ".git/objects/c8/9b396b695d3c1acdc66e6a8290663fd47aa7c1",
+        ".git/objects/ca/1f9df0c9bb8f80b8ba5e2bac563871061a08be",
+        ".git/objects/cf/869415a9bc89a3a94c159533f93c8770677f16",
+        ".git/objects/d0/5cf1e604402e87b61ed8cc1a7f4730ae9523c1",
+        ".git/objects/dc/01b65a6a2371bf8c91351fc4fe8a53c389ce82",
+        ".git/objects/ed/045fb0f0cf41bd6abd95709b1e0ffa092f28ed",
+        ".git/objects/ed/ed215e8ff6be2c906f3a51bc6deec6083747bb",
+        ".git/objects/pack/pack-e3b1503ffd4fefda4f5cf89f2e715937115415b6.idx",
+        ".git/objects/pack/pack-e3b1503ffd4fefda4f5cf89f2e715937115415b6.pack",
+        ".git/packed-refs",
+        ".git/refs/heads/main",
+        ".git/refs/remotes/origin/HEAD",
+        ".git/refs/remotes/origin/dependabot/add-v2-config-file",
+        ".git/refs/remotes/origin/main",
+        ".github/dependabot.yml",
+        ".idea/.idea.LibToBump.dir/.idea/contentModel.xml",
+        ".idea/.idea.LibToBump.dir/.idea/encodings.xml",
+        ".idea/.idea.LibToBump.dir/.idea/indexLayout.xml",
+        ".idea/.idea.LibToBump.dir/.idea/modules.xml",
+        ".idea/.idea.LibToBump.dir/.idea/projectSettingsUpdater.xml",
+        ".idea/.idea.LibToBump.dir/.idea/riderModule.iml",
+        ".idea/.idea.LibToBump.dir/.idea/vcs.xml",
+        ".idea/.idea.LibToBump.dir/.idea/workspace.xml",
+        ".nupkg.metadata",
+        "LibToBump.csproj",
+        "Program.cs",
+        "README.md",
+        "libtobump.1.0.0.nupkg.sha512",
+        "libtobump.nuspec",
+        "obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+        "obj/Debug/net5.0/LibToBump.AssemblyInfo.cs",
+        "obj/Debug/net5.0/LibToBump.AssemblyInfoInputs.cache",
+        "obj/Debug/net5.0/LibToBump.GeneratedMSBuildEditorConfig.editorconfig",
+        "obj/Debug/net5.0/LibToBump.assets.cache",
+        "obj/Debug/net5.0/LibToBump.csprojAssemblyReference.cache",
+        "obj/LibToBump.csproj.nuget.dgspec.json",
+        "obj/LibToBump.csproj.nuget.g.props",
+        "obj/LibToBump.csproj.nuget.g.targets",
+        "obj/project.assets.json",
+        "obj/project.nuget.cache",
+        "obj/project.packagespec.json"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "LibToBump >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/mohannadzeido/.nuget/packages/": {}
@@ -26,6 +119,7 @@
         "net5.0"
       ],
       "sources": {
+        "/Users/mohannadzeido/Documents/DependabotTest/LibToBump/": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://truelayer.jfrog.io/truelayer/api/nuget/nuget-local": {}
       },
@@ -44,6 +138,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "LibToBump": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

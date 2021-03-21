@@ -20,6 +20,7 @@
           "net5.0"
         ],
         "sources": {
+          "/Users/mohannadzeido/Documents/DependabotTest/LibToBump/": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://truelayer.jfrog.io/truelayer/api/nuget/nuget-local": {}
         },
@@ -38,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "LibToBump": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

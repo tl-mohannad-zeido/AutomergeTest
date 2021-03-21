@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+wyMB5H9tOzvch0xUSdZdUkv46McflWqSdZI9FzMr0sR22g/ezfVymtxVIr2GYs1MYQr0cjATUg3Rlb00rMaow==",
+  "dgSpecHash": "5hMko7HLX7268I41AdWK7Knj/Z/0qIG+UicqXZCnoV329kAx6YwipRIP6Jy0fhGIcZhmSkZA2Qx6AuRYksJUcQ==",
   "success": true,
   "projectFilePath": "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/AutomergeTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mohannadzeido/.nuget/packages/libtobump/1.0.0/libtobump.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
