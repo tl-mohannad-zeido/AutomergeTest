@@ -43,6 +43,10 @@
             "LibToBump": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
             }
           },
           "imports": [
