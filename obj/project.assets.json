@@ -5364,7 +5364,8 @@
     "net5.0": [
       "LibToBump >= 1.0.0",
       "Moq >= 4.16.0",
-      "xunit >= 2.4.0"
+      "xunit >= 2.4.0",
+      "xunit.core >= 2.4.0"
     ]
   },
   "packageFolders": {
@@ -5415,6 +5416,10 @@
             "version": "[4.16.0, )"
           },
           "xunit": {
+            "target": "Package",
+            "version": "[2.4.0, )"
+          },
+          "xunit.core": {
             "target": "Package",
             "version": "[2.4.0, )"
           }
