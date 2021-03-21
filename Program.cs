@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace _github
+namespace AutomergeTest
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlds!");
+            Console.WriteLine("Hello World!");
         }
     }
 }

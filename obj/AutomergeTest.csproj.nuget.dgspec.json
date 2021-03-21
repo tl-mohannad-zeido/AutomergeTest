@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/.github/.github.csproj": {}
+    "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/AutomergeTest.csproj": {}
   },
   "projects": {
-    "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/.github/.github.csproj": {
+    "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/AutomergeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/.github/.github.csproj",
-        "projectName": ".github",
-        "projectPath": "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/.github/.github.csproj",
+        "projectUniqueName": "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/AutomergeTest.csproj",
+        "projectName": "AutomergeTest",
+        "projectPath": "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/AutomergeTest.csproj",
         "packagesPath": "/Users/mohannadzeido/.nuget/packages/",
-        "outputPath": "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/.github/obj/",
+        "outputPath": "/Users/mohannadzeido/Documents/DependabotTest/AutomergeTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohannadzeido/.nuget/NuGet/NuGet.Config"
